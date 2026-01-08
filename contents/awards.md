@@ -1,19 +1,25 @@
+- 清华大学优秀学生干部，2025.
+- 清华大学研究生综合一等奖学金，2025.
+- 清华大学研究生社会工作二等奖学金, 2024.
+- 清华大学优秀共青团员, 2023.
+- 国家励志奖学金, 2022, 2023.
+- 清华大学本科优秀毕业论文, 2024.
 - 清华大学本科生综合优秀奖学金, 2021, 2022, 2023.
 - 清华大学本科生社会工作优秀奖学金, 2022, 2023.
-- 清华大学优秀共青团员, 2024.
 - 北京雨燕奖学金 二等奖, 2024.
-- 清华大学本科优秀毕业论文, 2024.
-- 清华大学研究生社会工作二等奖学金, 2024.
 - 第27届清华大学结构设计大赛（清华大学“十大科创赛事”） 第一名（团体）, 2021.
 - 第15届全国大学生结构设计竞赛（教育部白名单） 二等奖（团体）, 2023.
 - 第14届园冶杯大学生国际竞赛城市更新组 二等奖（团体）, 2023.
 - 
+- Outstanding Student Leader, Tsinghua University, 2025.
+- Comprehensive First-Class Scholarship for Graduate Students, Tsinghua University, 2025.
+- Social Work Scholarship for Graduate Students (Second Prize), Tsinghua University, 2024.
+- Outstanding Communist Youth League Member, Tsinghua University, 2023.
+- National Inspirational Scholarship, 2022, 2023.
+- Outstanding Undergraduate Graduation Thesis, Tsinghua University, 2024.
 - Comprehensive Excellence Scholarship for Undergraduate Students, Tsinghua University, 2021, 2022, 2023.
 - Outstanding Social Work Scholarship for Undergraduate Students, Tsinghua University, 2022, 2023.
-- Outstanding Communist Youth League Member, Tsinghua University, 2024.
-- Beijing Yuyan Scholarship, Second Prize, 2024.
-- Outstanding Graduation Thesis, Tsinghua University, 2024
-- Social Work Scholarship for Graduate Students, Second Prize, Tsinghua University, 2024
-- First Prize (Team), 27th Tsinghua University Structural Design Competition, 2021
-- Second Prize (Team), 15th National College Student Structural Design Competition (Recognized by the Ministry of Education), 2023
-- Second Prize (Team), Urban Renewal Category, 14th YUANYE AWARDS International Competition for Students, 2023
+- Beijing Yuyan Scholarship (Second Prize), 2024.
+- First Prize (Team), 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), 2021.
+- Second Prize (Team), 15th National College Student Structural Design Competition (Ministry of Education–Recognized), 2023.
+- Second Prize (Team), Urban Renewal Category, 14th Yuanye Cup International Student Competition, 2023.
