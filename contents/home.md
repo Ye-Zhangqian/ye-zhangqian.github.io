@@ -2,9 +2,7 @@
 I'm currently pursuing a Doctor degree in Landscape Architecture at the Department of Landscape Architecture, School  of Architecture, Tsinghua University, Beijing 100084, China.
 
 #### Email  
-<code>yezq20@tsinghua.org.cn</code>   
-<code>yezq24@mails.tsinghua.edu.cn</code>  
-<code>yezhangqian@qq.com</code>
+<code>yezq20@tsinghua.org.cn</code>   ; <code>yezq24@mails.tsinghua.edu.cn</code>  ; <code>yezhangqian@qq.com</code>
 
 
 #### Education  
