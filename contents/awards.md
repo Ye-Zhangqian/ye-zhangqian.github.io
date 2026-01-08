@@ -13,13 +13,13 @@
 - 
 - Outstanding Student Leader, Tsinghua University, 2025.
 - Comprehensive First-Class Scholarship for Graduate Students, Tsinghua University, 2025.
-- Social Work Scholarship for Graduate Students (Second Prize), Tsinghua University, 2024.
+- Social Work Scholarship for Graduate Students, Second Prize, Tsinghua University, 2024.
 - Outstanding Communist Youth League Member, Tsinghua University, 2023.
 - National Inspirational Scholarship, 2022, 2023.
 - Outstanding Undergraduate Graduation Thesis, Tsinghua University, 2024.
 - Comprehensive Excellence Scholarship for Undergraduate Students, Tsinghua University, 2021, 2022, 2023.
 - Outstanding Social Work Scholarship for Undergraduate Students, Tsinghua University, 2022, 2023.
-- Beijing Yuyan Scholarship (Second Prize), 2024.
-- First Prize (Team), 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), 2021.
-- Second Prize (Team), 15th National College Student Structural Design Competition (Ministry of Education–Recognized), 2023.
-- Second Prize (Team), Urban Renewal Category, 14th Yuanye Cup International Student Competition, 2023.
+- Beijing Yuyan Scholarship, Second Prize, 2024.
+- 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
+- 15th National College Student Structural Design Competition (Ministry of Education–Recognized), Second Prize (Team),  2023.
+- Urban Renewal Category, 14th Yuanye Cup International Student Competition, Second Prize (Team), 2023.
