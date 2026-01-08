@@ -11,7 +11,7 @@ I'm currently pursuing a Doctor degree in Landscape Architecture at the Departme
 **Tsinghua University**, Doctor in Landscape Architecture (2024 – 2029)  
 • GPA: 3.84/4.0   
 **Tsinghua University**, Bachelor of Engineering (2020 – 2024)  
-• GPA: 3.9/4.0 (2/7)
+• GPA: 3.90/4.0
 
 #### Research Interests  
 Protected Area, Landscape Architecture, National Park.
