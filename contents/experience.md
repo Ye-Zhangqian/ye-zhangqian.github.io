@@ -1,5 +1,5 @@
 清华大学建筑学院团委书记 2024年8月 – 至今  
-清华大学“双肩挑”学生政治辅导员 2024年7月 – 至今  
+清华大学“双肩挑”学生政治辅导员 2024年7月 – 至今
 Secretary of the Youth League Committee, Tsinghua University, School of Architecture, Aug 2024 – Present
 Student Political Counselor, Tsinghua University, Jul 2024 – Present
 
