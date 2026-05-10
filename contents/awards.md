@@ -7,9 +7,10 @@
 - 清华大学本科生综合优秀奖学金, 2021, 2022, 2023.
 - 清华大学本科生社会工作优秀奖学金, 2022, 2023.
 - 北京雨燕奖学金 二等奖, 2024.
-- 第27届清华大学结构设计大赛（清华大学“十大科创赛事”） 第一名（团体）, 2021.
-- 第15届全国大学生结构设计竞赛（教育部白名单） 二等奖（团体）, 2023.
-- 第14届园冶杯大学生国际竞赛城市更新组 二等奖（团体）, 2023.
+- 首届亚洲青年学生气候变化与健康创新大赛（清华、港大、新国立、WHO、WMO共同发起） 第二名, 2025.
+- 第15届全国大学生结构设计竞赛（教育部白名单） 二等奖, 2023.
+- 第14届园冶杯大学生国际竞赛 城市更新二等奖, 2023.
+- 第27届清华大学结构设计大赛（清华大学“十大科创赛事”） 第一名, 2021.
 - 
 - Outstanding Student Leader, Tsinghua University, 2025.
 - Comprehensive First-Class Scholarship for Graduate Students, Tsinghua University, 2025.
@@ -20,6 +21,7 @@
 - Comprehensive Excellence Scholarship for Undergraduate Students, Tsinghua University, 2021, 2022, 2023.
 - Outstanding Social Work Scholarship for Undergraduate Students, Tsinghua University, 2022, 2023.
 - Beijing Yuyan Scholarship, Second Prize, 2024.
-- 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
+- Asian Youth Student Climate Change and Health Innovation Competition, jointly initiated by Tsinghua University, the University of Hong Kong, the National University of Singapore, WHO, and WMO, Second Prize (Team), 2025.
 - 15th National College Student Structural Design Competition (Ministry of Education–Recognized), Second Prize (Team),  2023.
 - Urban Renewal Category, 14th Yuanye Cup International Student Competition, Second Prize (Team), 2023.
+- - 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
