@@ -24,4 +24,4 @@
 - Asian Youth Student Climate Change and Health Innovation Competition, jointly initiated by Tsinghua University, the University of Hong Kong, the National University of Singapore, WHO, and WMO, Second Prize (Team), 2025.
 - 15th National College Student Structural Design Competition (Ministry of Education–Recognized), Second Prize (Team),  2023.
 - Urban Renewal Category, 14th Yuanye Cup International Student Competition, Second Prize (Team), 2023.
-- - 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
+- 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
