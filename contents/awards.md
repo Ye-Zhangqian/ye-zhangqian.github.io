@@ -1,27 +1,36 @@
-- 清华大学优秀学生干部，2025.
+奖学金：
 - 清华大学研究生综合一等奖学金，2025.
 - 清华大学研究生社会工作二等奖学金, 2024.
-- 清华大学优秀共青团员, 2023.
+- 清华大学综合优秀奖学金, 2021, 2022, 2023.
+- 清华大学社会工作优秀奖学金, 2022, 2023.
 - 国家励志奖学金, 2022, 2023.
-- 清华大学本科优秀毕业论文, 2024.
-- 清华大学本科生综合优秀奖学金, 2021, 2022, 2023.
-- 清华大学本科生社会工作优秀奖学金, 2022, 2023.
+- 清华之友-丰田奖学金, 2021.
 - 北京雨燕奖学金 二等奖, 2024.
-- 首届亚洲青年学生气候变化与健康创新大赛（清华、港大、新国立、WHO、WMO共同发起） 第二名, 2025.
-- 第15届全国大学生结构设计竞赛（教育部白名单） 二等奖, 2023.
-- 第14届园冶杯大学生国际竞赛 城市更新二等奖, 2023.
-- 第27届清华大学结构设计大赛（清华大学“十大科创赛事”） 第一名, 2021.
-- 
-- Outstanding Student Leader, Tsinghua University, 2025.
-- Comprehensive First-Class Scholarship for Graduate Students, Tsinghua University, 2025.
-- Social Work Scholarship for Graduate Students, Second Prize, Tsinghua University, 2024.
-- Outstanding Communist Youth League Member, Tsinghua University, 2023.
-- National Inspirational Scholarship, 2022, 2023.
-- Outstanding Undergraduate Graduation Thesis, Tsinghua University, 2024.
-- Comprehensive Excellence Scholarship for Undergraduate Students, Tsinghua University, 2021, 2022, 2023.
-- Outstanding Social Work Scholarship for Undergraduate Students, Tsinghua University, 2022, 2023.
-- Beijing Yuyan Scholarship, Second Prize, 2024.
-- Asian Youth Student Climate Change and Health Innovation Competition, jointly initiated by Tsinghua University, the University of Hong Kong, the National University of Singapore, WHO, and WMO, Second Prize (Team), 2025.
-- 15th National College Student Structural Design Competition (Ministry of Education–Recognized), Second Prize (Team),  2023.
-- Urban Renewal Category, 14th Yuanye Cup International Student Competition, Second Prize (Team), 2023.
-- 27th Tsinghua University Structural Design Competition (One of Tsinghua University’s “Top Ten” S&T Innovation Competitions), First Prize (Team), 2021.
+学生工作类奖项荣誉：
+- 清华大学优秀学生干部（作为院团委书记），2025.
+- 清华大学优秀共青团员（作为院学生会主席、TMS分会长）, 2023.
+- 清华大学一二·九系列主题教育活动合唱艺术银奖、综合实效奖（作为指导员）, 2025
+- 清华大学一二·九系列主题教育活动合唱艺术金奖、综合实效奖（作为指导员）, 2024
+- 清华大学第三十九期暑期团校“优秀支队”（作为支队长）, 2024.
+- 清华大学学生军训优秀方阵（作为指导员）, 2024.
+- 清华大学学生马克思主义学习研究协会 荣誉分会长, 2023.
+- 清华大学建筑学院优秀学生干部（作为多年来学院首个校级党课小组标兵）, 2022.
+- 清华大学“优秀党课小组标兵”（全校仅10个班，作为班级党课小组长），2021.
+- 清华大学甲级团支部（作为党课小组长、核心班委）, 2021.
+学习科研竞赛类奖项荣誉：
+- 清华大学建筑学院博士生论坛 景观分论坛 二等奖, 2026.
+- 首届亚洲青年学生气候变化与健康创新大赛（团队） 第二名（团队成员获邀前往第30届联合国气候变化大会COP30-巴西、柳叶刀亚洲气候变化倒计时大会-北京作现场报告）, 2025.
+- 清华大学优秀论文（本科，学院排名第二）, 2024.
+- 第15届全国大学生结构设计竞赛 二等奖（教育部白名单赛事，代表队获清华多年来最好成绩）, 2023.
+- 第14届“园冶杯”大学生国际设计竞赛 二等奖, 2023.
+- 第27届清华大学结构设计大赛（清华“十大科创赛事”） 第一名, 2021.
+实践志愿公益类奖项荣誉：
+- 北京市海淀区一星级志愿者, 2026.
+- 清华大学四星级紫荆志愿者, 2023.
+- 清华大学建筑学院年度优秀志愿者三等奖, 2026.
+- 清华大学建筑学院年度优秀志愿者三等奖, 2025.
+- 清华大学最佳社会实践奖（全校仅4支，乡村振兴赴江苏高淳支队，作为辅导员、支队员）, 2025.
+- 清华大学乡村振兴工作站社会实践金奖（乡村振兴赴江苏高淳支队，作为辅导员、支队员）, 2025.
+- 清华大学建筑学院实践金奖（“筑梦建行”赴武夷山国家公园支队，作为带队辅导员）, 2025.
+- 清华大学建筑学院实践金奖（“筑梦建行”赴江苏盐城支队，作为带队辅导员）, 2024.
+- 清华大学寒假社会实践A等团队（党委学生部“深根·躬行”品牌实践，作为组长、支队员）, 2023.
