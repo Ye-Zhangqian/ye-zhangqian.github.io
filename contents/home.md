@@ -19,7 +19,7 @@ YE Zhangqian has previously served as Secretary of the Youth League Committee of
 <br>
 #### Email  <br>
 <code>yezq20@tsinghua.org.cn</code>;   <br>
-<code>yezq24@mails.tsinghua.edu.cn</code> ;  <br>
+<code>yezq24@mails.tsinghua.edu.cn</code>;  <br>
 <code>yezhangqian@qq.com</code>;  <br>
    <br>
 #### Website  <br>
