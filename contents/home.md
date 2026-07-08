@@ -14,7 +14,7 @@ YE Zhangqian has previously served as Secretary of the Youth League Committee of
 <br>
 #### Education  <br>
 **Tsinghua University**, Doctor in Landscape Architecture (2024-current)  <br>
-• GPA: 3.84/4.00  <br>
+• GPA: 3.9/4.0  <br>
 **Tsinghua University**, Bachelor of Engineering (2020-2024)  <br>
 • GPA: 3.90/4.00  <br>
 <br>
