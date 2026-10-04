@@ -1,29 +1,30 @@
-<br>  
-  
-   我是叶张骞，现为清华大学建筑学院景观学系2024级博士研究生（风景园林专业）。我的研究兴趣聚焦国家公园与自然保护地、公共健康、气候变化及景观规划设计。目前以第一作者在***Landscape and Urban Planning***、 **《中国园林》** 等中英文权威期刊，以主要作者在 ***Journal of Environmental Management***、***Biological Conservation***等中英文重要期刊发表论文，一作成果曾被清华大学官方Facebook账号、官方LinkedIn账号、官方X账号、清华大学建筑学院公众号、国家林草局清华大学国家公园研究院公众号公开报道。  
-  
-   在清华大学就读期间，我曾获**清华大学首届三好学生**、**清华大学研究生综合一等奖学金**、**清华大学综合优秀奖学金（本科生）**、**清华大学优秀学生干部**、**清华大学优秀共青团员**、**国家励志奖学金**等荣誉奖励。2025年，我提出的气候变化解决方案在首届亚洲青年学生气候变化与健康创新大赛获得第二名，是唯一进入总决赛的中国大陆团队，团队获邀前往巴西贝伦第30届联合国气候变化大会（COP30）现场作口头报告，我获邀前往柳叶刀亚洲气候变化倒计时大会现场作口头分享。  
-  
-   我曾承担**清华大学建筑学院团委书记**、**清华大学建筑学院学生会主席**、**北京冬奥会赛事服务助理**等工作，目前担任**清华大学“双肩挑”学生政治辅导员**。  
-  
-I am YE Zhangqian, a doctoral student in Landscape Architecture at Tsinghua University in China. My research interests focus on national parks and protected areas, public health, climate change, and landscape planning and design. As the first author, I have published papers in leading Chinese and international journals, including *Landscape and Urban Planning* and *Chinese Landscape Architecture*; as a major contributing author, I have also published in prominent journals such as *Journal of Environmental Management* and *Biological Conservation*. My first-authored work has been publicly featured by Tsinghua University’s official Facebook, LinkedIn, and X accounts, as well as by the official WeChat accounts of the School of Architecture, Tsinghua University, and the Institute for National Parks, National Forestry and Grassland Administration–Tsinghua University. <br>
-<br>
-During my studies at Tsinghua University, I have received multiple honors and awards, including the inaugural Tsinghua University “Three Goods” Student Award, the Comprehensive First-Class Scholarship for Graduate Students at Tsinghua University, the Comprehensive Excellence Scholarship for Undergraduate Students at Tsinghua University, the Outstanding Student Leader Award, the Outstanding Communist Youth League Member Award, and the National Inspirational Scholarship. In 2025, my proposed climate change solution won second place in the inaugural Asian Youth Student Innovation Competition on Climate Change and Health. It was the only finalist project from mainland China. My team was invited to deliver an oral presentation at the 30th United Nations Climate Change Conference (COP30) in Belém, Brazil, and I was invited to give an oral presentation at the Lancet Countdown Asia Conference on Climate Change and Health.<br>
-<br>
-I have previously served as Secretary of the Youth League Committee of the School of Architecture, Tsinghua University; President of the Student Union of the School of Architecture; and Event Services Assistant for the Beijing 2022 Winter Olympics. I currently serve as a “double-shouldered” student political counselor at Tsinghua University.<br>
-<br>
-#### Education  <br>
-**Tsinghua University**, Doctor in Landscape Architecture (2024-current)  <br>
-• GPA: 3.9/4.0  <br>
-**Tsinghua University**, Bachelor of Engineering (2020-2024)  <br>
-• GPA: 3.90/4.00  <br>
-<br>
-#### Email  <br>
-<code>yezq20@tsinghua.org.cn</code>;   <br>
-<code>yezq24@mails.tsinghua.edu.cn</code>;  <br>
-<code>yezhangqian@qq.com</code>;  <br>
-   <br>
-#### Website  <br>
-<code>https://www.researchgate.net/profile/Zhangqian-Ye-2</code>;  <br>
-<code>https://scholar.google.com/citations?user=JxRewlwAAAAJ</code>;  <br>
-<code>https://www.linkedin.com/in/zhangqian-ye-122796296/</code>;  <br>
+我是叶张骞，现为清华大学建筑学院景观学系2024级博士研究生（风景园林专业）。研究关注国家公园与自然保护地、公共健康、气候变化及景观规划设计。我以第一作者在 *Landscape and Urban Planning*、《中国园林》发表论文，并参与 *Journal of Environmental Management*、*Biological Conservation* 等期刊论文。一作成果获清华大学及相关研究机构官方平台报道（Facebook、LinkedIn、X及微信公众号）。
+
+在清华大学就读期间，我曾获清华大学首届三好学生、研究生综合一等奖学金、综合优秀奖学金（本科生）、优秀学生干部、优秀共青团员及国家励志奖学金等荣誉奖励。2025年，我提出的方案获首届亚洲青年学生气候变化与健康创新大赛第二名，所在团队是唯一进入总决赛的中国大陆团队。团队成员已在巴西贝伦第30届联合国气候变化大会（COP30）作口头报告；本人已在柳叶刀亚洲气候变化倒计时大会作口头分享。
+
+我曾任清华大学建筑学院团委书记、学生会主席及北京冬奥会赛事服务助理，现任清华大学“双肩挑”学生政治辅导员。详见[获奖](#awards)、[经历](#experience)与[论文](#publications)。
+
+I am YE Zhangqian, a PhD student (2024 cohort) in the Department of Landscape Architecture, School of Architecture, Tsinghua University. My research focuses on national parks and protected areas, public health, climate change, and landscape planning and design. I have published as first author in *Landscape and Urban Planning* and *Chinese Landscape Architecture*, and as a co-author in journals including *Journal of Environmental Management* and *Biological Conservation*. My first-authored work has been featured on official platforms of Tsinghua University and related research institutions, including Facebook, LinkedIn, X, and WeChat.
+
+During my studies at Tsinghua University, I have received the inaugural Tsinghua University “Three Goods” Student Award, the Comprehensive First-Class Scholarship for Graduate Students, the Comprehensive Excellence Scholarship for Undergraduate Students, the Outstanding Student Leader Award, the Outstanding Communist Youth League Member Award, and the National Inspirational Scholarship. In 2025, my proposed solution won second place in the inaugural Asian Youth Student Innovation Competition on Climate Change and Health. Our team was the only finalist team from mainland China. Team members delivered an oral presentation at COP30 in Belém, Brazil, and I delivered an oral presentation at the Lancet Countdown Asia Conference on Climate Change and Health.
+
+I previously served as Secretary of the Youth League Committee and President of the Student Union of the School of Architecture, Tsinghua University, and as an Event Services Assistant for the Beijing 2022 Winter Olympics. I currently serve as a “double-shouldered” student political counselor at Tsinghua University. See [awards](#awards), [experience](#experience), and [publications](#publications).
+
+#### Education
+
+**Tsinghua University**, PhD student in Landscape Architecture (2024–present) <br>
+• GPA: 3.90/4.00 <br>
+**Tsinghua University**, Bachelor of Engineering (2020–2024) <br>
+• GPA: 3.90/4.00
+
+#### Email
+
+<code>yezq20@tsinghua.org.cn</code>; <br>
+<code>yezq24@mails.tsinghua.edu.cn</code>; <br>
+<code>yezhangqian@qq.com</code>;
+
+#### Website
+
+<code>https://www.researchgate.net/profile/Zhangqian-Ye-2</code>; <br>
+<code>https://scholar.google.com/citations?user=JxRewlwAAAAJ</code>; <br>
+<code>https://www.linkedin.com/in/zhangqian-ye-122796296/</code>;
