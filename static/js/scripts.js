@@ -19,10 +19,19 @@ window.addEventListener('DOMContentLoaded', event => {
     const responsiveNavItems = [].slice.call(
         document.querySelectorAll('#navbarResponsive .nav-link')
     );
-    responsiveNavItems.map(function (responsiveNavItem) {
+    const navbarResponsive = document.getElementById('navbarResponsive');
+    responsiveNavItems.forEach(function (responsiveNavItem) {
         responsiveNavItem.addEventListener('click', () => {
-            if (window.getComputedStyle(navbarToggler).display !== 'none') {
-                navbarToggler.click();
+            if (window.getComputedStyle(navbarToggler).display !== 'none'
+                && navbarToggler.getAttribute('aria-expanded') === 'true') {
+                const closeMenu = () => {
+                    bootstrap.Collapse.getOrCreateInstance(navbarResponsive, { toggle: false }).hide();
+                };
+                if (navbarResponsive.classList.contains('collapsing')) {
+                    navbarResponsive.addEventListener('shown.bs.collapse', closeMenu, { once: true });
+                } else {
+                    closeMenu();
+                }
             }
         });
     });
